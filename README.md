@@ -13,7 +13,7 @@ using MNIST;
 Include the code and load the datasets.
 
 ```julia
-include("LSCClustering.jl");
+include("LSC.jl");
 include("Evaluation.jl");
 
 # reading dataset (60k objects)
